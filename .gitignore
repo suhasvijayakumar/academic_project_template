@@ -1,0 +1,23 @@
+## Mac
+*.DS_Store
+
+## Output files
+*.epub
+*.mobi
+*.pdf
+*.docx
+*.dox
+
+## Intermediate figures
+*.dvi
+*.ps
+*.eps
+*.fig
+
+## Bibliography files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
